@@ -31,7 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou Devops!!!! We shall overcome someday! </h1>
-   <h2> Tomcat is fun! </h2>
-  
+   <h1> Thankyou!! </h1>
+    
 </form>
